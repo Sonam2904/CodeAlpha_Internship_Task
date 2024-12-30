@@ -1,3 +1,4 @@
 # CodeAlpha_Internship_Task
-# Task1_Fibonacci_Series
-# Task2_Voice_Assistant
+# Task1(a)_Fibonacci_Series
+# Task1(b)_Voice_Assistant
+# Task2_Hangman_Game
